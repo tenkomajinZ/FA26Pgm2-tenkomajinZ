@@ -1,0 +1,2 @@
+A: This new show was added to the map: Star Wars with the duration of 2002 years.
+A: "Star Wars" already exists at duration 2002 years. Not added again.
